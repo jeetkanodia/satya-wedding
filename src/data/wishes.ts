@@ -26,10 +26,10 @@ export const wishes: Wish[] = [
   },
   {
     id: '2',
-    author: 'Jeet Kanodia',
-    initials: 'JK',
+    author: 'Shashikala Anandadam',
+    initials: 'SA',
     message:
-      'Congratulations on your wedding! Wishing you both a lifetime of laughter, and scrum free mornings together.',
+      'Cheers to Satya and Tevitt Sai! May your life together be full of laughter, love, and endless adventures. Congratulations! 💐',
   },
   {
     id: '3',
