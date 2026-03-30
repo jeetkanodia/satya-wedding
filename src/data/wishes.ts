@@ -66,6 +66,27 @@ export const wishes: Wish[] = [
     message:
        'Dearest Satya, As you embark on this incredible new chapter of your life, I want to send my warmest wishes for a wedding day filled with joy, laughter, and unforgettable moments. It has been a privilege to work alongside you, and we havee all witnessed your kindness, dedication, and wonderful spirit. May your marriage be a beautiful tapestry woven with love, understanding, and shared dreams. I wish you and Tevitt a lifetime of happiness, adventure, and unwavering support for each other. Congratulations, Satya!  so thrilled for you and cannot wait to celebrate this special occasion when you come to Bangalore. With deepest congratulations and warmest wishes.',
   },
+  {
+    id: '8',
+    author: 'Pavan Kumar',
+    initials: 'PK',
+    message:
+      'Wishing you a lifetime of love, happiness, and beautiful moments as you begin this wonderful new chapter in life. May your journey together be filled with joy, understanding, and bliss. Hearty congrats Satya and Tevit 💖✨',
+  },
+    {
+    id: '9',
+    author: 'Sai Anudeep',
+    initials: 'SA',
+    message:
+      'Congratulations and have a happy married life!',
+  },
+    {
+    id: '10',
+    author: 'Kanishka Mohan',
+    initials: 'KM',
+    message:
+      'Congratualations for a new phase in life!',
+  },
 ]
 
 /** Replace with your real Amazon gift card or e-gift link before going live */
